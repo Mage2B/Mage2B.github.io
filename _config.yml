@@ -1,0 +1,12 @@
+# Site settings
+title: Magento B2B Extension Suite
+email: hello@adampaterson.co.uk
+description: > # this means to ignore newlines until "baseurl:"
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "" # the base hostname & protocol for your site
+
+twitter_username: adam_paterson
+github_username: adam-paterson
+
+# Build settings
+markdown: kramdown
